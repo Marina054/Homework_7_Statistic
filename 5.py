@@ -7,7 +7,7 @@ import numpy as np
 import scipy.stats as st
 
 x = 2.5
-alf = 1.96
+alf = 0,05
 n = 10
 y = np.array([2.51, 2.35, 2.74, 2.56, 2.40, 2.36, 2.65, 2.7, 2.67, 2.34])
 x2 = np.mean(y) # 2.5279999999999996
